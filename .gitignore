@@ -1,2 +1,4 @@
 .null-ls_814785_main.py
 
+*.pyc
+*.db
